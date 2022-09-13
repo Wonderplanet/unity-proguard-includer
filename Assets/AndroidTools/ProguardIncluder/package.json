@@ -1,0 +1,12 @@
+{
+  "name": "com.wonderplanet.androidtools.proguardincluder",
+  "version": "0.0.1",
+  "displayName": "Unity Proguard Includer",
+  "description": "",
+  "unity": "",
+  "unityRelease": "",
+  "dependencies": {},
+  "keywords": [],
+  "type": "",
+  "author": "Toh Wei Ping"
+}
